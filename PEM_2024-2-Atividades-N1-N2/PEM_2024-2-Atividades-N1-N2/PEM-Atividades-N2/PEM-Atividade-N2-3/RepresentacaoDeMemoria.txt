@@ -1,0 +1,6 @@
+Descrição:
+O esquema de memória apresenta os estados das variáveis durante a recursividade.
+Os principais elementos a representar são:
+Array arr[]: alterações em cada ciclo.
+Índices limInf, limSup, ind e j.
+Valor do pivo em cada nível de recursão.
